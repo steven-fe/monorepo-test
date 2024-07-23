@@ -1,3 +1,3 @@
 import n from 'project-b'
 
-export default 1 + n;
+export default 2 + n;
