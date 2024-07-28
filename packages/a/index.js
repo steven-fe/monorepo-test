@@ -1,3 +1,3 @@
-import n from 'project-b'
+import n from 'tangjingchengaaaa'
 
 export default 2 + n;

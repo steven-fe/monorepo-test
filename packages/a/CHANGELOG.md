@@ -1,6 +1,6 @@
 # hello-webpackbytangjingcheng
 
-## 1.1.0
+## 1.1.1
 
 ### Minor Changes
 
@@ -9,4 +9,4 @@
 ### Patch Changes
 
 - Updated dependencies [[`5b8f568`](https://github.com/steven-fe/monorepo-test/commit/5b8f568dd0793cddbb685abf827e4eb55fffa0b2)]:
-  - project-b@1.0.1
+  - tangjingchengaaaa@1.0.1

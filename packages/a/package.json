@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "project-b": "workspace:*",
+    "tangjingchengaaaa": "workspace:*",
     "prettier": "^3.2.5",
     "react": "^16.14.0",
     "typescript": "^5.5.3"
